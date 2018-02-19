@@ -1,0 +1,4 @@
+LittlePig.MainActivity, LittlePig;md56e3297e5675cf3648e2e46256e535fb9.MainActivity
+LittlePig.MainActivity, LittlePig, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56e3297e5675cf3648e2e46256e535fb9.MainActivity
+LittlePig.MainActivity;md56e3297e5675cf3648e2e46256e535fb9.MainActivity
+littlepig.MainActivity;md56e3297e5675cf3648e2e46256e535fb9.MainActivity
