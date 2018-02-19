@@ -1,0 +1,48 @@
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\bin\Debug\RotationDemo.dll
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\bin\Debug\RotationDemo.pdb
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\bin\Debug\RotationDemo.RotationDemo.apk
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\bin\Debug\RotationDemo.RotationDemo-Signed.apk
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\RotationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\RotationDemo.dll
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\RotationDemo.pdb
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\android\bin\RotationDemo.RotationDemo.apk
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\values\strings.xml
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\drawable\monkey.png
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\drawable-land\monkey.png
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\layout-land\main.xml
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\layout\main.xml
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\layout\simplestateview.xml
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\layout\itemview.xml
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\drawable-ldpi\icon.png
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\R.cs.flag
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\uploadflags.txt
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\bin\Debug\RotationDemo.dll.mdb
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\obj\Debug\android\assets\RotationDemo.dll.mdb
+C:\Users\Austin\Desktop\Lab 4\RotationDemo\bin\Debug\RotationDemo.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Json.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\RotationDemo.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Json.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
