@@ -44,13 +44,13 @@ namespace LittlePig
 
         //Methods
         // Start over without creating a new game object
-        //public void ResetGame()
-        //{           
-        //    player1Score = 0;
-        //    player2Score = 0;
-        //    turnPoints = 0;
-        //    turn = 1;
-        //}
+        public void ResetGame()
+        {           
+            player1Score = 0;
+           player2Score = 0;
+          turnPoints = 0;
+           turn = 1;
+        }
 
         // Roll die and update turn points field
         public int RollDie()
