@@ -18,7 +18,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
-        android:text="Player 2:" />
+        android:text="Player 2:"
+        android:paddingRight="150dp" />
     <EditText
         android:id="@+id/p1NameEditText"
         android:layout_width="wrap_content"
@@ -31,7 +32,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
         android:layout_below="@+id/p2NameLabel"
-        android:layout_alignParentRight="true" />
+        android:layout_alignParentRight="true"
+        android:paddingRight="150dp" />
     <TextView
         android:id="@+id/p1ScoreLabel"
         android:textAppearance="?android:attr/textAppearanceLarge"
@@ -46,7 +48,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/p2NameEditText"
         android:layout_alignParentRight="true"
-        android:text="Score:" />
+        android:text="Score:"
+        android:layout_marginRight="150dp" />
     <TextView
         android:id="@+id/p1ScoreTextView"
         android:textAppearance="?android:attr/textAppearanceLarge"
@@ -66,24 +69,24 @@
         android:id="@+id/turnTextView"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_below="@+id/p1ScoreLabel"
-        android:layout_marginLeft="450dp"
+        android:layout_marginLeft="250dp"
         android:layout_marginTop="5dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="___'s turn"/>
+        android:text="___'s turn" />
     <ImageView
         android:id="@+id/dieImageView"
         android:src="@drawable/Die1"
         android:layout_below="@+id/turnTextView"
-        android:layout_marginLeft="250dp"
+        android:layout_marginLeft="150dp"
         android:layout_width="50dp"
         android:layout_height="50dp" />
     <TextView
         android:id="@+id/pointsLabel"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_below="@+id/dieImageView"
-        android:layout_marginLeft="450dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="-15dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Points for this turn:" />
@@ -104,13 +107,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
     <Button
-        android:id="@+id/rollButton"
-        android:layout_alignParentLeft="true"
-        android:layout_above="@+id/newGameButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Roll Die" />
-    <Button
         android:id="@+id/endTurnButton"
         android:layout_above="@+id/newGameButton"
         android:layout_alignParentRight="true"
@@ -121,7 +117,14 @@
         android:id="@+id/newGameButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="450dp"
+        android:text="New Game"
         android:layout_alignParentBottom="true"
-        android:text="New Game" />
+        android:layout_marginBottom="5dp" />
+    <Button
+        android:id="@+id/rollButton"
+        android:layout_above="@+id/newGameButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Roll Die"
+        android:layout_toRightOf="@id/newGameButton" />
 </RelativeLayout>

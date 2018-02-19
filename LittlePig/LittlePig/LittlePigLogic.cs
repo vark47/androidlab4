@@ -8,7 +8,7 @@ namespace LittlePig
     {
         //Fields
         private const int WINNING_SCORE = 100;
-        public const int BAD_NUMBER = 6;
+        public const int BAD_NUMBER = 1;
 
         private Random rand = new Random();
         private int player1Score;

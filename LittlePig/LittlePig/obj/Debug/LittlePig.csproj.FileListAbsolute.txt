@@ -25,7 +25,6 @@ C:\Users\Austin\Desktop\Lab 4\LP\LittlePig\LittlePig\obj\Debug\res\drawable\die6
 C:\Users\Austin\Desktop\Lab 4\LP\LittlePig\LittlePig\bin\Debug\LittlePig.dll.mdb
 C:\Users\Austin\Desktop\Lab 4\LP\LittlePig\LittlePig\obj\Debug\android\assets\LittlePig.dll.mdb
 C:\Users\Austin\Desktop\Lab 4\LP\LittlePig\LittlePig\obj\Debug\res\layout-land\main.xml
-C:\Users\Austin\Desktop\Lab 4\LP\LittlePig\LittlePig\bin\Debug\LittlePig.dll
 bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb
 bin\Debug\System.Core.pdb

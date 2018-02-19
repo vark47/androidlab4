@@ -34,23 +34,36 @@ namespace LittlePig
 
             rollButton.Click += delegate
             {
-                if (roll == LittlePigLogic.BAD_NUMBER)
-                {
-                    game.ChangeTurn();
-                }
+                
                 displayDie(dieImageView);
                 game.Player2Name = p2NameEditText.Text;
                 game.Player1Name = p1NameEditText.Text;
                 turnTextView.Text = game.GetCurrentPlayer() + " 's turn";
                 displayTurnPoints(pointsTextView);
+                if (roll == LittlePigLogic.BAD_NUMBER)
+                {
+                    //game.ChangeTurn();
+                    rollButton.Enabled = false;
+                }
             };
 
             endTurnButton.Click += delegate
             {
-                game.ChangeTurn();
-                turnTextView.Text = game.GetCurrentPlayer() + " 's turn";
-                displayScores(p1ScoreTextView, p2ScoreTextView);
-                winnerTextView.Text = game.CheckForWinner();
+                if (rollButton.Enabled == false)
+                {
+                    rollButton.Enabled = true;
+                    game.ChangeTurn();
+                    turnTextView.Text = game.GetCurrentPlayer() + " 's turn";
+                    displayScores(p1ScoreTextView, p2ScoreTextView);
+                    winnerTextView.Text = game.CheckForWinner();
+                }
+                else
+                {
+                    game.ChangeTurn();
+                    turnTextView.Text = game.GetCurrentPlayer() + " 's turn";
+                    displayScores(p1ScoreTextView, p2ScoreTextView);
+                    winnerTextView.Text = game.CheckForWinner();
+                }
             };
 
             newGameButton.Click += delegate
